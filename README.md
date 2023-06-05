@@ -41,10 +41,6 @@ Let's get started.
 
  `python main.py --city dallas`
 
-![](C:\Users\nmanicka\OneDrive - Capgemini\Desktop\Output.PNG "Weatherapp CLI tool")
-
-
-
 
 **[Contact]()**
 
